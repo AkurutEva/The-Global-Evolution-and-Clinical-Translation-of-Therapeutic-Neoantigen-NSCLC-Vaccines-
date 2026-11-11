@@ -1,0 +1,55 @@
+Country,Total_Trials,Neo_Trials,NonNeo_Trials,Total_Sites,Neo_Sites,NonNeo_Sites
+Argentina,5,2,3,30,12,18
+Australia,8,6,2,16,14,2
+Austria,3,0,3,3,0,3
+Belgium,11,3,8,31,8,24
+Brazil,7,3,4,53,21,32
+Bulgaria,2,1,1,4,2,2
+Canada,10,4,6,63,17,46
+Chile,3,3,0,17,17,0
+China,28,18,10,53,16,37
+Colombia,2,2,0,12,12,0
+Costa Rica,1,1,0,2,2,0
+Cuba,1,0,1,3,0,3
+Czechia,6,1,5,13,4,9
+Denmark,5,2,3,6,3,3
+Estonia,3,1,2,3,2,1
+Finland,4,2,2,7,6,1
+France,16,3,13,112,19,93
+Georgia,2,0,2,12,0,12
+Germany,19,4,15,90,22,68
+Greece,9,4,5,41,16,25
+Hong Kong,3,0,3,6,0,6
+Hungary,10,3,7,49,19,30
+India,3,0,3,6,0,6
+Indonesia,1,0,1,5,0,5
+Ireland,4,2,2,6,4,2
+Israel,9,2,7,28,11,17
+Italy,11,3,8,72,26,46
+Japan,14,3,11,38,31,7
+Latvia,2,1,1,2,1,1
+Lithuania,2,1,1,3,2,1
+Malaysia,3,1,2,10,5,5
+Mexico,2,1,1,12,9,3
+Netherlands,11,4,7,32,18,14
+New Zealand,2,2,0,5,5,0
+Norway,5,1,4,6,3,3
+Peru,1,1,0,4,4,0
+Philippines,3,1,2,11,3,8
+Poland,14,3,11,57,20,37
+Portugal,3,1,2,8,2,6
+Romania,5,1,4,20,4,16
+Russia,4,0,4,5,0,5
+Serbia,1,0,1,3,0,3
+Singapore,6,1,5,8,2,6
+Slovakia,2,1,1,5,4,1
+South Korea,8,3,5,33,21,12
+Spain,14,4,10,90,23,67
+Sweden,3,1,2,3,1,2
+Switzerland,5,1,4,9,1,8
+Taiwan,7,3,4,36,21,15
+Thailand,4,1,3,14,5,9
+Turkey,4,3,1,32,23,9
+Ukraine,1,0,1,1,0,1
+United Kingdom,15,2,13,46,15,31
+United States,112,15,97,809,175,644

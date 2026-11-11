@@ -1,0 +1,55 @@
+iso3,Country,Total_Trials,Conventional_Trials,Neoantigen_Trials,Total_Sites,Conventional_Sites,Neoantigen_Sites
+USA,United States,112,97,15,1012,839,179
+CHN,China,28,10,18,66,50,16
+DEU,Germany,19,15,4,196,174,22
+FRA,France,16,13,3,171,152,19
+GBR,United Kingdom,15,13,2,77,62,15
+JPN,Japan,14,11,3,48,17,31
+POL,Poland,14,11,3,91,71,20
+ESP,Spain,14,10,4,122,99,23
+BEL,Belgium,11,8,3,51,43,8
+ITA,Italy,11,8,3,121,95,26
+NLD,Netherlands,11,7,4,42,24,18
+CAN,Canada,10,6,4,76,59,17
+HUN,Hungary,10,7,3,64,45,19
+GRC,Greece,9,5,4,56,40,16
+ISR,Israel,9,7,2,40,29,11
+AUS,Australia,8,2,6,37,23,14
+KOR,South Korea,8,5,3,38,17,21
+BRA,Brazil,7,4,3,67,46,21
+TWN,Taiwan,7,4,3,45,24,21
+CZE,Czechia,6,5,1,20,16,4
+SGP,Singapore,6,5,1,8,6,2
+ARG,Argentina,5,3,2,38,26,12
+DNK,Denmark,5,3,2,7,4,3
+NOR,Norway,5,4,1,8,5,3
+ROU,Romania,5,4,1,25,21,4
+CHE,Switzerland,5,4,1,16,15,1
+FIN,Finland,4,2,2,12,6,6
+IRL,Ireland,4,2,2,7,3,4
+RUS,Russia,4,4,0,24,24,0
+THA,Thailand,4,3,1,16,11,5
+TUR,Turkey,4,1,3,32,9,23
+AUT,Austria,3,3,0,14,14,0
+CHL,Chile,3,0,3,17,0,17
+EST,Estonia,3,2,1,6,4,2
+HKG,Hong Kong,3,3,0,8,8,0
+IND,India,3,3,0,13,13,0
+MYS,Malaysia,3,2,1,19,14,5
+PHL,Philippines,3,2,1,11,8,3
+PRT,Portugal,3,2,1,11,9,2
+SWE,Sweden,3,2,1,10,9,1
+BGR,Bulgaria,2,1,1,4,2,2
+COL,Colombia,2,0,2,12,0,12
+GEO,Georgia,2,2,0,12,12,0
+LVA,Latvia,2,1,1,3,2,1
+LTU,Lithuania,2,1,1,3,1,2
+MEX,Mexico,2,1,1,12,3,9
+NZL,New Zealand,2,0,2,5,0,5
+SVK,Slovakia,2,1,1,7,3,4
+CRI,Costa Rica,1,0,1,2,0,2
+CUB,Cuba,1,1,0,3,3,0
+IDN,Indonesia,1,1,0,5,5,0
+PER,Peru,1,0,1,4,0,4
+SRB,Serbia,1,1,0,3,3,0
+UKR,Ukraine,1,1,0,9,9,0
